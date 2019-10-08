@@ -1,0 +1,3 @@
+/Users/mtartaglia/Desktop/C#_Work/obj/Debug/netcoreapp3.0/C#_Work.csprojAssemblyReference.cache
+/Users/mtartaglia/Desktop/C#_Work/obj/Debug/netcoreapp3.0/C#_Work.AssemblyInfoInputs.cache
+/Users/mtartaglia/Desktop/C#_Work/obj/Debug/netcoreapp3.0/C#_Work.AssemblyInfo.cs
